@@ -1,0 +1,137 @@
+<html>
+<head>
+	<title>Wikistalker - Wikipedia Article Structure Visualization</title>
+	
+	<meta name='description' content='Wikistalker - Wikipedia Article Structure Visualization, Visualizing the semantic relevance between the hyperlinked Wikipedia articles.'/>
+	<meta name='keywords' content='wikistalker, wiki stalker, wikipedia stalker, mapping wikipedia, cybercartography, wikipedia visualization, category structure visualization, link relevance visualization, hiedegger,hyperlink ,internet,map,mapped wiki,spaciality ,wikipedia,tower of babel,visualization,processing.org, processingjs, cyberspace'/>
+	<link rel="canonical" href="http://sepans.com/wikistalker" />
+	
+	<script type="text/javascript" src="js/d3.min.js"></script>
+	<script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui-1.10.3.custom.min.js"></script>
+	<script type="text/javascript" src="js/spin.min.js"></script>
+	<script type="text/javascript" src="js/wiki2html.js"></script>
+	
+	<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/freebase/suggest/4_2/suggest.min.js"></script>
+	
+	<script type="text/javascript" src="js/jquery.ui.touch-punch.js"></script>
+
+ 	<script type="text/javascript" src="js/wikistalker.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="js/jquery-ui-1.10.3.custom.min.css" />
+    
+    <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/freebase/suggest/4_2/suggest.min.css" />
+
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+	
+	<style type="text/css">
+	
+		
+	</style>
+
+</head>
+<body>
+	<div id="top_nav">
+		<!--
+		<a href="#" id="linkViewLink" onclick="linkView();return false;" alt="Browse thtough entries">Navigate</a>
+		<a href="#" id="categoryViewLink" onclick="categoryView();">Category Structure</a>
+		-->
+		<a href="#" id="navigate-view" class="tab">Browse</a>
+
+		<a href="#" id="history-view" >History</a>
+
+		<a href="#" id="article-view" >Show Article</a>
+		
+		<a class="menu-center" href="#" onclick="$('#help').toggle();">[Visualization of semantic relevance between hyperlinked Wikipedia articles. ]</a>
+		
+
+		<a  href="#" id="link-to-this" target="_blank">Link to this <span>(for sharing)</span></a>
+
+		<a  href="#" onclick="$('#help').toggle();">About</a>
+
+		<!--
+		<a href="" id="setting_link">Link to this setting</a>
+
+		<a href="#" onclick="$('#help').show();return false;">About</a>
+		-->
+
+	</div>
+	<div class="top">
+		<div class="disabling" id="top-disabler" style="display:none"></div>
+		<h1>Wikistalker</h1>
+		<section>
+			<label for="title">Artile Title: </label><input id="article" type="text" size="30" value="Jorge Luis Borges"/> <input type="button" class="btn" id="go-button" value="Go!"></input>
+		</section>
+		<section>
+			Relevance cut off: <span id="rel-val" >50%</span>  <div id="rel-slider" class="slider"> </div>
+		</section>
+		<section>
+			<div id="sortby_sec"><span>Sort By:</span>
+					<label for="sort-rel">Relatedness </label><input type="radio" name="sort" value="relatedness" id="sort-rel" class="radio" />
+					<label for="sort-title">Title </label><input type="radio" name="sort" value="title" class="radio" id="sort-title" checked="true"/>
+			</div>
+		</section>
+	</div>
+	
+    <img src="http://sepans.com/sp/wp-content/uploads/2011/04/Wikistalker_Wikipedia_Visualization_kafka_bw.jpg" title="wikistalker" style="display:none"/>
+	<div id="center"></div>
+	
+	<div id="loading">
+	    <!--<img src="img/loading.gif">-->
+	</div>
+	<div id="small-loading">
+	   <!-- <img src="img/loading.gif">-->
+	</div>
+
+	<input type="hidden" id="article-id" value="15781"/>
+
+
+
+	<div id="help">
+		<a href="#" style="float: right" onclick="$('#help').hide();">X</a>
+		<h2>About Wikistalker</h2>
+		<p>Wikistalker illustrates the relations between different things by visualizing the <b>semantic relevance</b> between the inter-connected structure of their Wikipedia entry articles.</p>
+		<p>In this visualization, each bar (or ray) represents an <b>outgoing link</b> from the Wikipedia article with its length corresponding to the semantic relevance of two connected articles.</p>
+		<p>You can filter links by their relatedness using the <b>sliding bar</b> and sort them <b>alphabetically</b> or by <b>relevance</b>. </p>
+
+        <p>Hyperlinks, once being an addition to the textual content, now in many cases are as significant as the content itself. In Wikistalker this idea is pushed to its limits by removing the content and only showing the structure of hyperlinks. It also revisits the idea behind <a href="http://www.visualcomplexity.com/vc/project_details.cfm?index=7&amp;id=7&amp;domain" target="_blank">Web Stalker</a>, visualizing the structure and connections between different elements of cyberspace, instead of showing the content. It creates an alternative reading and navigation experience of Wikipedia articles by leaving the pathways and spatial arrangements the same, but creating a new navigational perspective of the virtual space of Wikipedia corpus.</p>
+        <p>Wikistalker is also a tool for the cartography of things from the collective perspective of Wikipedia contributors mined by machine learning algorithms. This gives a picture of the inter-connected entities within the world, mirrored in the structure of Wikipedia. </p>
+        
+        <p>This project is implemented in HTML5 using <b>d3.js</b> and jquery</p>
+
+        <p>The semantic relevance measure is calculated by data mining the Wikipedia corpus using <a href="http://wikipedia-miner.cms.waikato.ac.nz/" target="_blank">Wikipedia Miner algorithm</a>. 
+        
+        <p>Developed by <a href="http://sepans.com" target="_new">sepans</a>. UX design by <a href="http://raschin.com" target="_new">raschin</a>. Powered by <a href="http://wikipedia-miner.cms.waikato.ac.nz/" target="_new">Wikipedia Miner</a></p>
+    
+        
+	</div>
+	
+	<span class="power">By <a href="http://sepans.com" target="_new">sepans</a> and <a href="http://raschin.com" target="_new">raschin</a> Powered by <a href="http://wikipedia-miner.cms.waikato.ac.nz/" target="_new">Wikipedia Miner</a></span>
+
+    <div id="d3"></div>
+
+    
+    <div id="wiki_content"><a href="#" class="close">X</a><div class="wiki"></div></div>
+    
+    
+   <script type="text/javascript" src="js/index.js"></script>
+
+    
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11178641-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body>
+</html>

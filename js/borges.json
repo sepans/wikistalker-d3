@@ -1,0 +1,1037 @@
+{
+  "id": 15781,
+  "title": "Jorge Luis Borges",
+  "definition": "\u003cb\u003eJorge Francisco Isidoro Luis Borges Acevedo\u003c/b\u003e (August 24, 1899 – June 14, 1986), known as \u003cb\u003eJorge Luis Borges\u003c/b\u003e ( ), was an Argentine writer, essayist, poet and translator born in Buenos Aires.",
+  "parentCategories": [
+    {
+      "id": 740200,
+      "title": "Argentine writers"
+    },
+    {
+      "id": 991737,
+      "title": "1986 deaths"
+    },
+    {
+      "id": 1009389,
+      "title": "1899 births"
+    },
+    {
+      "id": 1050593,
+      "title": "Argentine poets"
+    },
+    {
+      "id": 1179145,
+      "title": "Jorge Luis Borges"
+    },
+    {
+      "id": 1695639,
+      "title": "Premio Cervantes winners"
+    },
+    {
+      "id": 2432097,
+      "title": "People from Buenos Aires"
+    },
+    {
+      "id": 2468712,
+      "title": "Blind people"
+    },
+    {
+      "id": 2586269,
+      "title": "Argentine short story writers"
+    },
+    {
+      "id": 2586271,
+      "title": "Argentine essayists"
+    },
+    {
+      "id": 5247855,
+      "title": "Officers of the Order of the British Empire"
+    },
+    {
+      "id": 5570273,
+      "title": "Harvard University people"
+    },
+    {
+      "id": 6491518,
+      "title": "Edgar Award winners"
+    },
+    {
+      "id": 7229459,
+      "title": "Argentine screenwriters"
+    },
+    {
+      "id": 7470844,
+      "title": "Argentine anti-communists"
+    },
+    {
+      "id": 7593151,
+      "title": "Argentine librarians"
+    },
+    {
+      "id": 12756588,
+      "title": "Hyperreality theorists"
+    },
+    {
+      "id": 18669518,
+      "title": "Deaths from liver cancer"
+    },
+    {
+      "id": 19530215,
+      "title": "Cancer deaths in Switzerland"
+    },
+    {
+      "id": 23740561,
+      "title": "Argentine translators"
+    },
+    {
+      "id": 24348178,
+      "title": "Argentine people of Uruguayan descent"
+    },
+    {
+      "id": 27390968,
+      "title": "Argentine people of English descent"
+    },
+    {
+      "id": 27391269,
+      "title": "Latin American people of British descent"
+    },
+    {
+      "id": 27591653,
+      "title": "Argentine people of Portuguese descent"
+    },
+    {
+      "id": 27611752,
+      "title": "Argentine people of Spanish descent"
+    },
+    {
+      "id": 28877281,
+      "title": "Prix mondial Cino Del Duca winners"
+    },
+    {
+      "id": 29541561,
+      "title": "Argentine anti-fascists"
+    },
+    {
+      "id": 30454733,
+      "title": "Commanders Crosses of the Order of Merit of the Federal Republic of Germany"
+    },
+    {
+      "id": 31982201,
+      "title": "Postmodern writers"
+    }
+  ],
+  "totalParentCategories": 29,
+  "outLinks": [
+    {
+      "id": 12,
+      "title": "Anarchism",
+      "relatedness": 0.3614834069400237
+    },
+    {
+      "id": 700,
+      "title": "Arthur Schopenhauer",
+      "relatedness": 0.5846969990105706
+    },
+    {
+      "id": 3383,
+      "title": "Brazil",
+      "relatedness": 0.3488851239595484
+    },
+    {
+      "id": 3408,
+      "title": "Baruch Spinoza",
+      "relatedness": 0.5343357000740321
+    },
+    {
+      "id": 3933,
+      "title": "Braille",
+      "relatedness": 0.4599824363630768
+    },
+    {
+      "id": 4443,
+      "title": "Barcelona",
+      "relatedness": 0.3752693455998224
+    },
+    {
+      "id": 4757,
+      "title": "Bestiary",
+      "relatedness": 0.5356837342560647
+    },
+    {
+      "id": 8237,
+      "title": "Don Quixote",
+      "relatedness": 0.6211726866573222
+    },
+    {
+      "id": 9518,
+      "title": "Edmund Husserl",
+      "relatedness": 0.5604800003711319
+    },
+    {
+      "id": 9549,
+      "title": "Edgar Allan Poe",
+      "relatedness": 0.6501217152914642
+    },
+    {
+      "id": 9593,
+      "title": "Existentialism",
+      "relatedness": 0.5775390350619567
+    },
+    {
+      "id": 10858,
+      "title": "Franz Kafka",
+      "relatedness": 0.7137548985814965
+    },
+    {
+      "id": 11801,
+      "title": "Filippo Tommaso Marinetti",
+      "relatedness": 0.5506174295235331
+    },
+    {
+      "id": 12521,
+      "title": "Geneva",
+      "relatedness": 0.36787487574438715
+    },
+    {
+      "id": 13460,
+      "title": "Hypertext",
+      "relatedness": 0.5941800977750002
+    },
+    {
+      "id": 13578,
+      "title": "Hermann Hesse",
+      "relatedness": 0.6484558058792838
+    },
+    {
+      "id": 15428,
+      "title": "Idealism",
+      "relatedness": 0.5325849206047659
+    },
+    {
+      "id": 15600,
+      "title": "James Joyce",
+      "relatedness": 0.6636138688679231
+    },
+    {
+      "id": 15781,
+      "title": "Jorge Luis Borges",
+      "relatedness": 1.0
+    },
+    {
+      "id": 16340,
+      "title": "Jean-Paul Sartre",
+      "relatedness": 0.6663330624073711
+    },
+    {
+      "id": 19444,
+      "title": "Miguel de Cervantes",
+      "relatedness": 0.6668090320885094
+    },
+    {
+      "id": 19547,
+      "title": "Modernism",
+      "relatedness": 0.5656174697735898
+    },
+    {
+      "id": 21544,
+      "title": "Nuclear fusion",
+      "relatedness": 0.3297904100070209
+    },
+    {
+      "id": 21785,
+      "title": "Nuclear weapon",
+      "relatedness": 0.3107742316661699
+    },
+    {
+      "id": 22614,
+      "title": "Oscar Wilde",
+      "relatedness": 0.5660084758768686
+    },
+    {
+      "id": 22666,
+      "title": "Old Norse",
+      "relatedness": 0.2794921450952954
+    },
+    {
+      "id": 22667,
+      "title": "Old English",
+      "relatedness": 0.3670561398839175
+    },
+    {
+      "id": 23420,
+      "title": "Paraguay",
+      "relatedness": 0.47452261170543164
+    },
+    {
+      "id": 26308,
+      "title": "Rudyard Kipling",
+      "relatedness": 0.5535276179208275
+    },
+    {
+      "id": 26667,
+      "title": "Spain",
+      "relatedness": 0.34923362561524074
+    },
+    {
+      "id": 26779,
+      "title": "Soviet Union",
+      "relatedness": 0.27248148153774476
+    },
+    {
+      "id": 27553,
+      "title": "Set theory",
+      "relatedness": 0.5085487970644007
+    },
+    {
+      "id": 27640,
+      "title": "Samuel Beckett",
+      "relatedness": 0.6543748256159851
+    },
+    {
+      "id": 28766,
+      "title": "Surrealism",
+      "relatedness": 0.60999193819676
+    },
+    {
+      "id": 31843,
+      "title": "Uruguay",
+      "relatedness": 0.519835536030641
+    },
+    {
+      "id": 32031,
+      "title": "University of Texas at Austin",
+      "relatedness": 0.378133139607977
+    },
+    {
+      "id": 32359,
+      "title": "Virgil",
+      "relatedness": 0.4605753014568632
+    },
+    {
+      "id": 32442,
+      "title": "Vladimir Nabokov",
+      "relatedness": 0.7388054085567206
+    },
+    {
+      "id": 32742,
+      "title": "Virginia Woolf",
+      "relatedness": 0.6914667793724477
+    },
+    {
+      "id": 32897,
+      "title": "William Shakespeare",
+      "relatedness": 0.450709472060558
+    },
+    {
+      "id": 33718,
+      "title": "William Faulkner",
+      "relatedness": 0.6547665905398483
+    },
+    {
+      "id": 33870,
+      "title": "Walt Whitman",
+      "relatedness": 0.5695228532946359
+    },
+    {
+      "id": 36922,
+      "title": "Quran",
+      "relatedness": 0.4359401135452088
+    },
+    {
+      "id": 37304,
+      "title": "Martin Heidegger",
+      "relatedness": 0.5713568166348695
+    },
+    {
+      "id": 37770,
+      "title": "Seville",
+      "relatedness": 0.4571364083652768
+    },
+    {
+      "id": 43079,
+      "title": "One Thousand and One Nights",
+      "relatedness": 0.6578313116722605
+    },
+    {
+      "id": 47858,
+      "title": "Arabian Peninsula",
+      "relatedness": 0.296898971709733
+    },
+    {
+      "id": 50030,
+      "title": "La Marseillaise",
+      "relatedness": 0.4193840943099285
+    },
+    {
+      "id": 50410,
+      "title": "Coup d\u0027etat",
+      "relatedness": 0.44057817058363635
+    },
+    {
+      "id": 52201,
+      "title": "Jean Racine",
+      "relatedness": 0.5322283877506853
+    },
+    {
+      "id": 55667,
+      "title": "Spoils system",
+      "relatedness": 0.4751525077104808
+    },
+    {
+      "id": 59310,
+      "title": "Majorca",
+      "relatedness": 0.4262271525565223
+    },
+    {
+      "id": 62013,
+      "title": "Guillaume Apollinaire",
+      "relatedness": 0.6461894907205614
+    },
+    {
+      "id": 72196,
+      "title": "Prose Edda",
+      "relatedness": 0.42471785215816604
+    },
+    {
+      "id": 76095,
+      "title": "Avant-garde",
+      "relatedness": 0.5028210299098472
+    },
+    {
+      "id": 76939,
+      "title": "Phenomenology (philosophy)",
+      "relatedness": 0.5665804352897623
+    },
+    {
+      "id": 83938,
+      "title": "French Resistance",
+      "relatedness": 0.42822868204079334
+    },
+    {
+      "id": 95157,
+      "title": "Symbolism (arts)",
+      "relatedness": 0.6512188157090393
+    },
+    {
+      "id": 103246,
+      "title": "Imagism",
+      "relatedness": 0.566996663241861
+    },
+    {
+      "id": 128422,
+      "title": "Thomas Carlyle",
+      "relatedness": 0.5449412738010886
+    },
+    {
+      "id": 144135,
+      "title": "Magic realism",
+      "relatedness": 0.7173791641017331
+    },
+    {
+      "id": 158400,
+      "title": "Sepsis",
+      "relatedness": 0.34322498853341465
+    },
+    {
+      "id": 159896,
+      "title": "Gustav Meyrink",
+      "relatedness": 0.610456962748703
+    },
+    {
+      "id": 164646,
+      "title": "Transcendentalism",
+      "relatedness": 0.46708598840423976
+    },
+    {
+      "id": 177052,
+      "title": "Immortality",
+      "relatedness": 0.47892119426668633
+    },
+    {
+      "id": 190771,
+      "title": "1935 in literature",
+      "relatedness": 0.5274283508373365
+    },
+    {
+      "id": 192303,
+      "title": "The Library of Babel",
+      "relatedness": 0.7379054673539431
+    },
+    {
+      "id": 201160,
+      "title": "Adolfo Bioy Casares",
+      "relatedness": 0.7583110171895502
+    },
+    {
+      "id": 211484,
+      "title": "Populism",
+      "relatedness": 0.45694850083150185
+    },
+    {
+      "id": 216815,
+      "title": "Military junta",
+      "relatedness": 0.5473873532421463
+    },
+    {
+      "id": 224173,
+      "title": "Emanuel Swedenborg",
+      "relatedness": 0.5524380372072752
+    },
+    {
+      "id": 229466,
+      "title": "National Geographic (magazine)",
+      "relatedness": 0.37582300907178035
+    },
+    {
+      "id": 237585,
+      "title": "Hepatocellular carcinoma",
+      "relatedness": 0.4651730599991426
+    },
+    {
+      "id": 248859,
+      "title": "Herbert Spencer",
+      "relatedness": 0.5018608258470167
+    },
+    {
+      "id": 251728,
+      "title": "Juan Rulfo",
+      "relatedness": 0.7020344478812182
+    },
+    {
+      "id": 255919,
+      "title": "Buenos Aires",
+      "relatedness": 0.5936909302989605
+    },
+    {
+      "id": 255932,
+      "title": "Buenos Aires Province",
+      "relatedness": 0.6386199070854477
+    },
+    {
+      "id": 262752,
+      "title": "Tango (dance)",
+      "relatedness": 0.6128421204317305
+    },
+    {
+      "id": 290850,
+      "title": "Alejo Carpentier",
+      "relatedness": 0.7090601794998139
+    },
+    {
+      "id": 295861,
+      "title": "Lugano",
+      "relatedness": 0.3980216951086408
+    },
+    {
+      "id": 310123,
+      "title": "Paul de Man",
+      "relatedness": 0.5501806033887955
+    },
+    {
+      "id": 322832,
+      "title": "Alfonso Reyes",
+      "relatedness": 0.6536455473599236
+    },
+    {
+      "id": 325421,
+      "title": "Edgar Award",
+      "relatedness": 0.4840940740982971
+    },
+    {
+      "id": 333250,
+      "title": "J. M. Coetzee",
+      "relatedness": 0.589085812216052
+    },
+    {
+      "id": 339679,
+      "title": "Pedro Eugenio Aramburu",
+      "relatedness": 0.6142459704226925
+    },
+    {
+      "id": 344068,
+      "title": "Dirty War",
+      "relatedness": 0.6160831785916502
+    },
+    {
+      "id": 360054,
+      "title": "Communist Party of Argentina",
+      "relatedness": 0.575495410843324
+    },
+    {
+      "id": 368834,
+      "title": "Pierre Menard, Author of the Quixote",
+      "relatedness": 0.7273398143351182
+    },
+    {
+      "id": 373252,
+      "title": "Pampas",
+      "relatedness": 0.6245101159727596
+    },
+    {
+      "id": 382525,
+      "title": "The Happy Prince and Other Tales",
+      "relatedness": 0.5028513891318986
+    },
+    {
+      "id": 384246,
+      "title": "H. Bustos Domecq",
+      "relatedness": 0.0
+    },
+    {
+      "id": 385190,
+      "title": "The Book of Sand",
+      "relatedness": 0.6975120086416533
+    },
+    {
+      "id": 386905,
+      "title": "Gaucho",
+      "relatedness": 0.6229982477328785
+    },
+    {
+      "id": 400845,
+      "title": "Anthony Boucher",
+      "relatedness": 0.5540156868253662
+    },
+    {
+      "id": 404707,
+      "title": "Justicialist Party",
+      "relatedness": 0.5100013084429498
+    },
+    {
+      "id": 477714,
+      "title": "University of Buenos Aires",
+      "relatedness": 0.6529985144721016
+    },
+    {
+      "id": 489296,
+      "title": "Caudillo",
+      "relatedness": 0.5911051536170584
+    },
+    {
+      "id": 496752,
+      "title": "Victoria Ocampo",
+      "relatedness": 0.7125000428330478
+    },
+    {
+      "id": 503214,
+      "title": "Pseudepigraph",
+      "relatedness": 0.4105367019675651
+    },
+    {
+      "id": 576120,
+      "title": "Balzan Prize",
+      "relatedness": 0.5134229937475112
+    },
+    {
+      "id": 613040,
+      "title": "The Zahir",
+      "relatedness": 0.68010112838262
+    },
+    {
+      "id": 617191,
+      "title": "Ellery Queen\u0027s Mystery Magazine",
+      "relatedness": 0.6238185472877743
+    },
+    {
+      "id": 651709,
+      "title": "Le Nouvel Observateur",
+      "relatedness": 0.4751525077104808
+    },
+    {
+      "id": 670804,
+      "title": "The Lottery in Babylon",
+      "relatedness": 0.0
+    },
+    {
+      "id": 788762,
+      "title": "Gallimard",
+      "relatedness": 0.5949668831018073
+    },
+    {
+      "id": 794921,
+      "title": "Mystery Writers of America",
+      "relatedness": 0.503024821085388
+    },
+    {
+      "id": 811329,
+      "title": "Averroes\u0027s Search",
+      "relatedness": 0.0
+    },
+    {
+      "id": 838982,
+      "title": "The Immortal (short story)",
+      "relatedness": 0.0
+    },
+    {
+      "id": 937519,
+      "title": "Samuel Butler (novelist)",
+      "relatedness": 0.549554828942126
+    },
+    {
+      "id": 963093,
+      "title": "On Exactitude in Science",
+      "relatedness": 0.0
+    },
+    {
+      "id": 1013978,
+      "title": "Balvanera",
+      "relatedness": 0.6379724270954891
+    },
+    {
+      "id": 1124989,
+      "title": "Norah Borges",
+      "relatedness": 0.0
+    },
+    {
+      "id": 1138373,
+      "title": "Ficciones",
+      "relatedness": 0.7480104169585136
+    },
+    {
+      "id": 1149721,
+      "title": "Sartor Resartus",
+      "relatedness": 0.6357224851483896
+    },
+    {
+      "id": 1173584,
+      "title": "Book of Imaginary Beings",
+      "relatedness": 0.6976138299602275
+    },
+    {
+      "id": 1297091,
+      "title": "The Golem (novel)",
+      "relatedness": 0.0
+    },
+    {
+      "id": 1334346,
+      "title": "Labyrinths",
+      "relatedness": 0.7239638718260986
+    },
+    {
+      "id": 1345173,
+      "title": "In Our Time (BBC Radio 4)",
+      "relatedness": 0.5964686927050943
+    },
+    {
+      "id": 1382102,
+      "title": "The Aleph (short story collection)",
+      "relatedness": 0.7244227223839022
+    },
+    {
+      "id": 1593170,
+      "title": "The Aleph (short story)",
+      "relatedness": 0.7019730842692885
+    },
+    {
+      "id": 1607348,
+      "title": "The Garden of Forking Paths",
+      "relatedness": 0.7552339303810767
+    },
+    {
+      "id": 1637816,
+      "title": "The Secret Miracle",
+      "relatedness": 0.7010186195975251
+    },
+    {
+      "id": 1820055,
+      "title": "Sur (magazine)",
+      "relatedness": 0.7110396739022269
+    },
+    {
+      "id": 1861353,
+      "title": "Humbug",
+      "relatedness": 0.5124145169396843
+    },
+    {
+      "id": 1904053,
+      "title": "Marxism",
+      "relatedness": 0.5009380671627788
+    },
+    {
+      "id": 2213446,
+      "title": "Naturalism (arts)",
+      "relatedness": 0.44198172297531335
+    },
+    {
+      "id": 2246510,
+      "title": "The House of Asterion",
+      "relatedness": 0.0
+    },
+    {
+      "id": 2333341,
+      "title": "Ultraist movement",
+      "relatedness": 0.6655158375715667
+    },
+    {
+      "id": 2607082,
+      "title": "Eduardo Mallea",
+      "relatedness": 0.6825583670169266
+    },
+    {
+      "id": 2711130,
+      "title": "Nonlinear narrative",
+      "relatedness": 0.5203046212387036
+    },
+    {
+      "id": 2833362,
+      "title": "Jerusalem Prize",
+      "relatedness": 0.5995748861966694
+    },
+    {
+      "id": 2926867,
+      "title": "Funes the Memorious",
+      "relatedness": 0.7169687832000994
+    },
+    {
+      "id": 2973604,
+      "title": "Norman Thomas di Giovanni",
+      "relatedness": 0.0
+    },
+    {
+      "id": 3288045,
+      "title": "National University of Cuyo",
+      "relatedness": 0.5243742524456483
+    },
+    {
+      "id": 3416784,
+      "title": "National Library of the Argentine Republic",
+      "relatedness": 0.6975120086416533
+    },
+    {
+      "id": 3434750,
+      "title": "United States",
+      "relatedness": 0.16040835321572822
+    },
+    {
+      "id": 3930514,
+      "title": "Miguel de Cervantes Prize",
+      "relatedness": 0.6361863330069599
+    },
+    {
+      "id": 4188183,
+      "title": "Criollo people",
+      "relatedness": 0.6392870928514285
+    },
+    {
+      "id": 4566187,
+      "title": "Argentine Declaration of Independence",
+      "relatedness": 0.619335755855986
+    },
+    {
+      "id": 4636488,
+      "title": "Francisco Narciso de Laprida",
+      "relatedness": 0.0
+    },
+    {
+      "id": 4764461,
+      "title": "World War I",
+      "relatedness": 0.2679503948745492
+    },
+    {
+      "id": 5101461,
+      "title": "Battle of Cepeda (1859)",
+      "relatedness": 0.5406749398269272
+    },
+    {
+      "id": 5651029,
+      "title": "El Golem",
+      "relatedness": 0.0
+    },
+    {
+      "id": 6027448,
+      "title": "Prix mondial Cino Del Duca",
+      "relatedness": 0.5659112842454267
+    },
+    {
+      "id": 7083694,
+      "title": "Nick Montfort",
+      "relatedness": 0.6149078652058741
+    },
+    {
+      "id": 7332998,
+      "title": "Paul Groussac",
+      "relatedness": 0.6685440837247105
+    },
+    {
+      "id": 7663658,
+      "title": "A New Refutation of Time",
+      "relatedness": 0.0
+    },
+    {
+      "id": 7665875,
+      "title": "The Circular Ruins",
+      "relatedness": 0.0
+    },
+    {
+      "id": 7673195,
+      "title": "Pablo Neruda",
+      "relatedness": 0.7229253135753391
+    },
+    {
+      "id": 8025215,
+      "title": "Battle of Los Corrales",
+      "relatedness": 0.0
+    },
+    {
+      "id": 8340578,
+      "title": "Three Versions of Judas",
+      "relatedness": 0.0
+    },
+    {
+      "id": 9209651,
+      "title": "Communism",
+      "relatedness": 0.3118610914370442
+    },
+    {
+      "id": 9542325,
+      "title": "Chilean people",
+      "relatedness": 0.5444910722919232
+    },
+    {
+      "id": 9568276,
+      "title": "Leopoldo Torre Nilsson",
+      "relatedness": 0.6299516699253231
+    },
+    {
+      "id": 10132579,
+      "title": "Evaristo Carriego",
+      "relatedness": 0.0
+    },
+    {
+      "id": 10224447,
+      "title": "Latin American Boom",
+      "relatedness": 0.7213170199169545
+    },
+    {
+      "id": 11211080,
+      "title": "Beatriz Sarlo",
+      "relatedness": 0.6635470828558658
+    },
+    {
+      "id": 11283781,
+      "title": "American Literary Regionalism",
+      "relatedness": 0.5539581886466712
+    },
+    {
+      "id": 12307905,
+      "title": "A Universal History of Infamy",
+      "relatedness": 0.7137247468463757
+    },
+    {
+      "id": 12456655,
+      "title": "Death and the Compass",
+      "relatedness": 0.7169687832000994
+    },
+    {
+      "id": 12784305,
+      "title": "The Two Kings and the Two Labyrinths",
+      "relatedness": 0.0
+    },
+    {
+      "id": 12793760,
+      "title": "The Writing of the God",
+      "relatedness": 0.0
+    },
+    {
+      "id": 12813174,
+      "title": "Ulrikke (short story)",
+      "relatedness": 0.0
+    },
+    {
+      "id": 12843241,
+      "title": "Andrew Hurley (academic)",
+      "relatedness": 0.6758317380497925
+    },
+    {
+      "id": 18642444,
+      "title": "Madrid",
+      "relatedness": 0.43982836930782376
+    },
+    {
+      "id": 18933396,
+      "title": "Augusto Pinochet",
+      "relatedness": 0.5687920548557472
+    },
+    {
+      "id": 18951905,
+      "title": "Argentina",
+      "relatedness": 0.5072094239009937
+    },
+    {
+      "id": 21244047,
+      "title": "Realism (arts)",
+      "relatedness": 0.6438630496437064
+    },
+    {
+      "id": 21402573,
+      "title": "Eidetic memory",
+      "relatedness": 0.5738706792699018
+    },
+    {
+      "id": 23010681,
+      "title": "Redemption (theology)",
+      "relatedness": 0.44759793182477947
+    },
+    {
+      "id": 23385442,
+      "title": "Nobel Prize in Literature",
+      "relatedness": 0.6132581997233345
+    },
+    {
+      "id": 23408931,
+      "title": "Snorri Sturluson",
+      "relatedness": 0.5238355218687059
+    },
+    {
+      "id": 23551182,
+      "title": "Criollismo",
+      "relatedness": 0.0
+    },
+    {
+      "id": 24555547,
+      "title": "Noah Wardrip-Fruin",
+      "relatedness": 0.6453082805749418
+    },
+    {
+      "id": 26165020,
+      "title": "The Book of Sand (book)",
+      "relatedness": 0.68010112838262
+    },
+    {
+      "id": 26214812,
+      "title": "Richard Burgin (writer)",
+      "relatedness": 0.0
+    },
+    {
+      "id": 26438002,
+      "title": "The Theologians",
+      "relatedness": 0.0
+    },
+    {
+      "id": 30152700,
+      "title": "Rafael Cansinos Assens",
+      "relatedness": 0.0
+    },
+    {
+      "id": 30404798,
+      "title": "Moments (poem)",
+      "relatedness": 0.0
+    },
+    {
+      "id": 31045316,
+      "title": "Nazism",
+      "relatedness": 0.3811522165492439
+    }
+  ],
+  "totalOutLinks": 180,
+  "service": "/services/exploreArticle",
+  "request": {
+    "title": "borges",
+    "outLinks": "true",
+    "definition": "true",
+    "linkFormat": "plain",
+    "linkRelatedness": "true",
+    "responseFormat": "json",
+    "parentCategories": "true"
+  }
+}

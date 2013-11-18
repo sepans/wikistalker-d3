@@ -1,0 +1,111 @@
+	body{ font-family: arial,sans-serif;; font-size: 11px; margin: 10px; overflow-y: hidden;}
+		.slider { width: 180px; margin: 5px 0; }
+		.ui-slider-range { background-color: #ccc;
+        /*  background-image: repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(255,255,255,.3) 3px, rgba(255,255,255,.3) 13px);*/
+		}
+		
+		#params { padding: 20px 0 0 350px;}
+		#canvas_span {position: absolute;}
+		.top {z-index: 100; position: absolute;   padding: 4px; width: 187px; border: 1px solid #000;}
+		.top input {margin-top: 3px;}
+		.top section { margin: 8px 0; display: block;}
+		#article {border: 1px solid #666; height: 25px; width: 150px; padding: 3px; margin-bottom: 5px;}
+		#rel-val {font-size: 14px; font-weight: bold;}
+		.radio {vertical-align: middle; }
+		.btn { border: 1px solid black; padding: 3px; cursor: pointer; background-color: #DDD;}
+		.btn:hover {background-color: #CCC;}
+		#tooltip {z-index: 100; position: absolute; width: 250px; background: none; max-height: 300px; overflow: hidden; 
+			/*border: 1px solid #9FBFA7;*/ }
+		#tooltip img {display: block;  border: 1px solid black;margin: 5px auto;}
+		#tooltip a { color: #000;}
+		#center {z-index: 100; position: absolute; top: 420px; left: 450px;}
+		.top_nav {z-index: 100; position: absolute; top: 380; left: 480; width: 200px;}
+		
+		#loading {z-index: 200; position: absolute; top: 350px; left: 350px; width: 250px; height: 100px; background-color: rgba(255,255,255,0.6); }
+		#loading img { margin: 20px auto; display: block;}
+
+		#small-loading {z-index: 200; position: absolute; top: 400px; left: 910px; width: 200px; height: 90px;  display:none; }
+		#small-loading img { margin: 20px auto; display: block;}
+		
+		
+		#define-menu img {margin: 20px 80px; z-index: 90;}
+		a {color: #666;text-decoration: none;}
+		.right {float: right}
+		.power {position: fixed; bottom: 10px; left: 10px;font-size: 12px; float: right; z-index: 200;  }
+		#wiki_content { position: absolute; z-index: 250; width: 500px; min-height: 15px; max-height: 680px; overflow-y: auto; overflow-x: hidden; top: 50px; left: 830px;  background-color: #FFF; opacity: 0.9; padding: 10px; display: none; border: 1px solid #000;}
+		#wiki_content .close {}
+		#wiki_content a { color: #000;}
+		#wiki_content a:hover { text-decoration: underline; }
+		
+		.close {display: block; color: #000; text-align: center; border: 1px solid black; padding: 1px 2px 3px 2px; cursor: pointer; width: 10px; height: 10px;
+		position: absolute; top: 7px; right: 7px;}
+		
+		#top_nav {position: absolute; top: 10px; left: 225px; z-index: 300; background-color: #FFF; border: 1px solid #000; width: 100%; opacity: .8;
+padding: 10px;}
+		#top_nav a {color: #000; margin-right: 15px; padding: 2px 5px 10px;}
+		#top_nav .menu-center { margin: 0 140px 0 80px; padding: 0; display: inline-block;}
+		
+		.tab {border-bottom: 1px solid #FFF; border-top: 1px solid black; border-right: 1px solid black; border-left: 1px solid black;}
+		
+		
+		#wiki_text  { max-height: 700px; overflow: auto;}
+		#wiki_text a {color: #000; }
+		
+		#history_canvas {z-index:250;display:none; position: absolute; top:100; left: 270;}
+		#define-menu a { color: #000; font-size: 12px; font-weight: bold;}
+		.top h1 {margin:0; color: #000; width: 100%; font-size: 16px; padding: 0;}
+		#help {  position: fixed; top: 55px; right: -1px; border: 1px solid #000; z-index: 200;
+		width: 600px; background-color: #fff; padding: 10px; font-size: 12px; display: none; opacity: 0.95;}
+		#help b { color: #000; background-color: #CCC; padding: 2px; font-weight: normal;}
+		#heip a { text-decoration: underline; color: #000; }
+		#help h2 { }
+		.disabling {position: absolute; top: 0; left: 0; width:100%; height: 100%; z-index: 1000; display:none; background-color: #FFF; opacity: 0.5; }
+		#tip {position: fixed; top: 80px; left: 270px; padding: 5px; z-index: 500; font-size: 10px; 
+			color: #444; border: 1px solid #444; width: 200px; display: none; background: #FFF; opacity: .8;}
+		#tip .message {color: #00BBBB;}
+		#rel-slider { border-radius: 0px; border: 1px solid black; height: 8px; }
+		#rel-slider a { border-radius: 1px; border: 1px solid black; width: 10px; height: 12px; background: #555; cursor: col-resize;}
+		
+		#d3 { position: absolute; top: 0px; left: 60px;}
+
+
+		.small-svg .bar, .small-svg .bar:hover  { cursor: default;}
+
+
+		.bar rect { fill: #111;}
+		.bar:hover rect { fill: #ddd; width: 10px;}
+		
+		.bar:hover {width: 10px; cursor: pointer;}
+		.bar text { fill: #ddd; fill-opacity: 0;}
+		.bar:hover .text { fill: #000;  fill-opacity: 1 !important;}
+		
+		.preview p { margin: 0; }
+		.preview {/*background: url('img/arrow.png') 165px 4px no-repeat;*/ padding-right: 40px; width: 180px; cursor: pointer;}
+		.preview:hover b {color: #555;}
+		.preview:hover p {color: #444;}
+		.preview-circle { cursor: pointer;}
+		
+		.li.fbs-item { border-color: #aaa;}
+		.fbs-item-name { background-color: #FFF; border-color: #aaa; }
+		li.fbs-selected .fbs-item-name {border-color: #000; color: #000;}
+		
+		.history-container { position: absolute; top: 50px; left: 164px; background-color: rgba(255,255,255,1); border: 1px solid #aaa; z-index: 100; display: none;}
+		.history-container .bar, .history-container .bar:hover {cursor: default;}
+		.history-container .close { }
+		
+		.the-main-svg { margin-bottom: 15px;}
+		
+		.cat {position: absolute;}
+		
+		.main_curve { stroke-opacity: 0.2}
+		
+		#sortby_sec { margin-top: 4px;}
+		#sortby_sec span { display: inline-block; margin-right: 3px;}
+		
+		/*toggle button*/
+		
+		.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-left, .ui-corner-br { border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; border-top-right-radius: 1px; border-top-left-radius: 1px;}
+		.ui-widget {font-family: arial; font-size: 1em;}
+		.ui-state-default, .ui-state-active { border-color: #555;}
+		.ui-state-default { color: #777;}
+		.ui-state-active { color: #333;}
