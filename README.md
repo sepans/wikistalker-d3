@@ -1,3 +1,6 @@
+![wikistalker-borges2](https://user-images.githubusercontent.com/687513/202743886-e1602ba2-3685-4ace-a9f5-18753508a6fb.jpeg)
+
+
 Wikistalker illustrates the relations between different things by visualizing the semantic relevance between the inter-connected structure of their Wikipedia entry articles.
 In this visualization, each bar (or ray) represents an outgoing link from the Wikipedia article with its length corresponding to the semantic relevance of two connected articles.
 You can filter links by their relatedness using the sliding bar and sort them alphabetically or by relevance.
